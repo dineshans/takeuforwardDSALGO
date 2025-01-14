@@ -1,4 +1,4 @@
-package com.app.array;
+package com.app.dsalgo.array;
 
 public class FindLargestElementInArray {
 
