@@ -1,4 +1,4 @@
-package com.app.dsalgo.array;
+package com.app.dsalgo.array.easy;
 
 import static java.lang.Math.max;
 
