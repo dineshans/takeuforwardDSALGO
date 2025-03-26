@@ -142,7 +142,7 @@ public class HashMapImplementation {
         ArrayList<String> keys = myMap.keySet();
         for(int i = 0; i < keys.size(); i++) {
             System.out.print("Key is : " + keys.get(i) + ":  And  : " + "value is : " + myMap.get(keys.get(i)));
-            git sttausSystem.out.println();
+            System.out.println();
         }
 
         myMap.remove("India");
