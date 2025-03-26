@@ -50,9 +50,7 @@ public class MergeTwoSortedArray {
         System.out.print(" ]");
     }
 
-    public static void mergeTwoSortedArraysWithoutExtraSpace(long []a, long []b){
 
-    }
 
 
 }

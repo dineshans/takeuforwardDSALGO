@@ -98,6 +98,8 @@ public class FindFirstAndLastOccurenceOfNumber {
             if(arr[mid] ==  k) {
                 ans = mid;
                 high = mid-1;
+            } else if (arr[mid] < k) {
+                low = mid+1;
             }
             else {
                 high = mid-1;
@@ -119,9 +121,11 @@ public class FindFirstAndLastOccurenceOfNumber {
             if(arr[mid] ==  k) {
                 ans = mid;
                 low = mid+1;
+            } else if (arr[mid] < k) {
+                low = mid+1;
             }
             else {
-                low = mid+1;
+                high = mid-1;
             }
         }
         return ans;
