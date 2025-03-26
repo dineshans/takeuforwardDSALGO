@@ -1,4 +1,4 @@
-package com.app.dsalgo.binarysearch.bunarysearch.answer;
+package com.app.dsalgo.binarysearch.answer;
 
 public class MedianOfTwoSortedArrays {
 

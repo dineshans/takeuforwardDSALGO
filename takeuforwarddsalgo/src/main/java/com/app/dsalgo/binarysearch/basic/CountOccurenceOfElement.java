@@ -1,4 +1,4 @@
-package com.app.dsalgo.binarysearch;
+package com.app.dsalgo.binarysearch.basic;
 
 public class CountOccurenceOfElement {
 

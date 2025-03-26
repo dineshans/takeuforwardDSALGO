@@ -1,4 +1,4 @@
-package com.app.dsalgo.binarysearch;
+package com.app.dsalgo.binarysearch.basic;
 
 /*
  *  Lower bound mean (only lesser condition) --> find the smallest index where arr[mid] >= x (element should be greater or equal but index should be smallest)
